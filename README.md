@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Edib Isic</h1>
-<h3 align="center">A passionate full stack developer from Munich</h3>
+<h1 align="center">Hi 👋, I'm Ulrich Giorgio Jaeger</h1>
+<h3 align="center">A passionate full stack developer from Zürich</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edibisic&label=Profile%20views&color=0e75b6&style=flat" alt="edibisic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edibisic" alt="edibisic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edibisic" alt="Java_Elite" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/edib_isic" target="blank"><img src="https://img.shields.io/twitter/follow/edib_isic?logo=twitter&style=for-the-badge" alt="edib_isic" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Java_Elite" target="blank"><img src="https://img.shields.io/twitter/follow/Java_Elite?logo=twitter&style=for-the-badge" alt="Java_Elite_Ulrich_Jaeger" /></a> </p>
 
 - 🔭 I’m currently working on [VS CODE Features & Fixes](https://github.com/microsoft/vscode)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Angular, Javascript, Core Java 8 & 11**
 
-- 📫 How to reach me **edib.isic@gmail.com**
+- 📫 How to reach me **ulrich.giorgio.jaeger@hotmail.com**
 
 - 📄 Know about my experiences [https://zety.com/profile/edib-isic](https://zety.com/profile/edib-isic)
 
@@ -31,8 +31,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/edibisic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="edibisic" height="30" width="40" /></a>
-<a href="https://twitter.com/edib_isic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edib_isic" height="30" width="40" /></a>
+<a href="https://dev.to/edibisic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="java elite ulrich jaeger" height="30" width="40" /></a>
+<a href="https://twitter.com/Java_Elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="java elite ulrich jaeger" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edib-isic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edib-isic" height="30" width="40" /></a>
 </p>
 

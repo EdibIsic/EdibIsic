@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Angular, Javascript, Core Java 8 & 11**
 
-- 📫 How to reach me **ulrich.giorgio.jaeger@hotmail.com**
+- 📫 How to reach me **edib.isic@icloud.com**
 
 - 📄 Know about my experiences [https://zety.com/profile/edib-isic](https://zety.com/profile/edib-isic)
 
@@ -31,9 +31,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/edibisic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="java elite ulrich jaeger" height="30" width="40" /></a>
-<a href="https://twitter.com/Java_Elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="java elite ulrich jaeger" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ulrich-jaeger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edib-isic" height="30" width="40" /></a>
+<a href="https://dev.to/edibisic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="java elite edib isic" height="30" width="40" /></a>
+<a href="https://twitter.com/Java_Elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="java elite edib isic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edib-isic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edib-isic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
